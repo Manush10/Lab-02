@@ -10,12 +10,3 @@ List any resources used here, or simply put `N/A` if not applicable.
 ## Verbal Collaboration
 List students' names and CCIDs here, or simply put `N/A` if not applicable. 
 
-## Student Details
-- **Full Name:** `Manush Hareshkumar Patel`
-- **CCID:** `manush`
-
-## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
-
-## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
